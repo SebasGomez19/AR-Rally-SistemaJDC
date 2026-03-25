@@ -1,4 +1,0 @@
-repository "Plataformas/Plataformas@4673735011479@cloud"
-  path "/"
-    br "/main"
-    co "/main"
